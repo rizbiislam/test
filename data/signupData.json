@@ -1,0 +1,21 @@
+{
+  "newUser": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "Test@123",
+    "dob": {
+      "day": "10",
+      "month": "5",
+      "year": "1995"
+    },
+    "address": {
+      "line1": "123 Main St",
+      "line2": "Apt 4B",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "zipcode": "90001"
+    },
+    "mobileNumber": "1234567890"
+  }
+}

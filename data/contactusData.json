@@ -1,0 +1,8 @@
+{
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "subject": "Inquiry",
+    "message": "This is a test message for Contact Us form.",
+    "filePath": "../Testing/screenshots/signup_success.png"
+}
+  
